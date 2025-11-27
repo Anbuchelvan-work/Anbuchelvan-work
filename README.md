@@ -14,13 +14,13 @@ Aspiring **Cloud / DevOps Engineer** focused on building production-ready skills
 ---
 
 ## 📁 Key Repositories
-- 🔹 [cloud-basics](https://github.com/YOUR_USERNAME/cloud-basics)
-- 🔹 [linux-essentials](https://github.com/YOUR_USERNAME/linux-essentials)
-- 🔹 [git-github-practice](https://github.com/YOUR_USERNAME/git-github-practice)
-- 🔹 [docker-fundamentals](https://github.com/YOUR_USERNAME/docker-fundamentals)
-- 🔹 [devops-projects](https://github.com/YOUR_USERNAME/devops-projects)
+- 🔹 [cloud-basics](https://github.com/ANBUCHELVAN-WORK/cloud-basics)
+- 🔹 [linux-essentials](https://github.com/ANBUCHELVAN-WORK/linux-essentials)
+- 🔹 [git-github-practice](https://github.com/ANBUCHELVAN-WORK/git-github-practice)
+- 🔹 [docker-fundamentals](https://github.com/ANBUCHELVAN-WORK/docker-fundamentals)
+- 🔹 [devops-projects](https://github.com/ANBUCHELVAN-WORK/devops-projects)
 
-*(Replace YOUR_USERNAME with your actual GitHub username)*
+
 
 ---
 

@@ -20,6 +20,14 @@ Aspiring **Cloud / DevOps Engineer** focused on building production-ready skills
 - 🔹 [docker-fundamentals](https://github.com/ANBUCHELVAN-WORK/docker-fundamentals)
 - 🔹 [devops-projects](https://github.com/ANBUCHELVAN-WORK/devops-projects)
 
+## 🚀 Recent DevOps Progress
+
+✔ Built and containerized a Flask application using Docker  
+✔ Deployed and tested locally on http://localhost:5000  
+✔ Implemented CI pipeline using GitHub Actions  
+✔ Added smoke test validation  
+✔ Used feature branch workflow and pull request merging  
+✔ Automated documentation and backlog tracking
 
 
 ---
